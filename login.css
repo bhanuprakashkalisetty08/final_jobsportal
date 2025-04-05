@@ -30,7 +30,7 @@ body {
     left: -400px; 
     top: 55%;
     transform: translateY(-50%);
-    width: 680px; 
+    width: 660px; 
     animation: fly-in 2s ease-out forwards;
     z-index: -1;
     border: 3px solid black;
